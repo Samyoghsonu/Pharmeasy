@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Satisfy&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Crimson+Text:ital@1&family=Frank+Ruhl+Libre&family=Lugrasimo&family=Roboto&family=Roboto+Slab&family=Satisfy&family=Varela+Round&display=swap');
+
+/* .colori{
+  background-color: rgba(56, 56, 54, 0.237);
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+} */
+
+
+.font-styling-pharmeasy{
+  font-family: 'Satisfy', cursive;
+  font-size: 30px;
+}
+body{
+    height: 100vh;
+}
+
+/* .lefting{
+  margin-right: 10px;
+}
+.righting{
+  margin-right: 10px;
+} */
+
+
+.heading-about{
+    margin: 10px 15px;
+    font-size: 3rem;
+    font-family: 'Frank Ruhl Libre', serif;
+    color: black;
+    /* font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Varela Round', sans-serif; */
+   
+   
+  }
+  .heading-about span{
+    margin-top: 20px;
+    margin-left: 0;
+    border-bottom: 0.5px solid #666666;
+
+  }
+
+
+.content{
+    margin: 20px 15px;
+    font-size: 1.25rem;
+    font-family: 'Alice', serif;
+}
+
+.listing{
+    margin-top: 50px;
+    /* text-align: center; */
+}
+
+.Comparison{
+    margin-top: 50px;
+}
+
+.table-cont table,tr,th,td ,caption {
+    border: 1px solid #000;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding:0.5rem;
+    text-align: center;
+}
+
+.table-cont th{
+    color: red;
+}
+
+
+
+.table-cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.tests{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.tests th{
+    font-size: 1.5rem;
+}
+
+footer{
+    margin-top: 500px;
+}
